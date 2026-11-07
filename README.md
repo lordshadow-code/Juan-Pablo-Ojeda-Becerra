@@ -102,4 +102,37 @@ Para este caso:
 
 El programa también será probado con otros valores, incluyendo datos inválidos y valores repetidos.
 
----
+# Analisis
+Entradas
+   Se ingresan dos datos cargas (que deben estar entre 3 y 20) y el pesoCargas (que deben estar entre 5 y 200kg)
+
+Proceso
+   Se valida que los datos ingresados esten entre:
+   -cargas 3 y 20
+   -pesoCargas 5 y 200kg
+   -El dato debe ser valido, si no lo es mostrar un mensaje y solicitar de nuevo
+   -las cargas deben aparecer numeradas desde 1
+
+   Cree 2 arregños unidimensionales:
+   -uno para las cargas llamado "cargas"
+   -el otro para el peso llamado "pesoCargas"
+
+   Cantidad de cargas con pesos entre 5 y 80kg
+   Cantidad de cargas con peso superior a 80kg
+   Peso promedio de las cargas
+   Peso total de la jornada
+   Mayor peso registrado
+   Cantidad de cargas con peso superior al promedio
+   Listado de todos los pesos ingresados
+
+Salidas
+   Cantidad de cargas con pesos entre 5 y 80kg
+   Cantidad de cargas con peso superior a 80kg
+   Peso promedio de las cargas
+   Peso total de la jornada
+   Mayor peso registrado
+   Cantidad de cargas con peso superior al promedio
+   Listado de todos los pesos ingresados
+
+   
+   
